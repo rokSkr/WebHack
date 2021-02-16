@@ -39,26 +39,27 @@ pkg install python
 pip install scapy
 pip install shodan
 echo -e "Использование
-|_____________________________________________|
-| $ - Новая Строка                            |
-|tattool - txtool                             |
-|_____________________________________________|
-|$ TM-scanner - python2 tmscanner.py          |
-|_____________________________________________|
-| $ SecurityAdmin -  python3 security-admin.py|
-| $ Turbolist3r-                              |
-| $ 1.python3 turbolist3r.py -h -help         |
-| $ 2.python3 turbolist3r.py -d google.com    |
-| $ 3.python3 turbolist3r.py -d google.com    |
-| -a                                          |
-| $ 2. - Поиск Поддоменов                     |
-| $ 3. - Поиск поддоменов + DNS               |
-|_____________________________________________|
-|Memcrashed-DDoS-Exploit-                     |
-| $ cd /Memcrashed-DDoS-Exploit               |
-| $ pip install -r requirements.txt           |
-| $ python Memcrashed.py                      |
-|_____________________________________________|
+|______________________________________________|
+Установленные репозитории(как их использовать):|
+| $ - Новая Строка                             |
+|txttool - txtool                              |
+|______________________________________________|
+|$ TM-scanner - python2 tmscanner.py           |
+|______________________________________________|
+| $ SecurityAdmin -  python3 security-admin.py |
+| $ Turbolist3r-                               |
+| $ 1.python3 turbolist3r.py -h -help          |
+| $ 2.python3 turbolist3r.py -d google.com     |
+| $ 3.python3 turbolist3r.py -d google.com     |
+| -a                                           |
+| $ 2. - Поиск Поддоменов                      |
+| $ 3. - Поиск поддоменов + DNS                |
+|______________________________________________|
+|Memcrashed-DDoS-Exploit-                      |
+| $ cd /Memcrashed-DDoS-Exploit                |
+| $ pip install -r requirements.txt            |
+| $ python Memcrashed.py                       |
+|______________________________________________|
 "
 echo "________________________
 |                            |
