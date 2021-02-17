@@ -14,17 +14,25 @@ Repositories that are being installed:
 
 1.cd txttool
 txtool
-3.cd TM-scanner
+
+
+2.cd TM-scanner
 python2 tmscanner.py
-5.cd Securiry-Admin
+
+
+3.cd Securiry-Admin
 python3 security-admin.py
-7. 1.python3 turbolist3r.py -h -help          
+
+
+4. 1.python3 turbolist3r.py -h -help          
  2.python3 turbolist3r.py -d google.com 
  3.python3 turbolist3r.py -d google.com
  1.Помощь
- 5.Поиск Поддоменов
- 6.Поиск поддоменов + DNS
-8.cd /Memcrashed-DDoS-Exploit
+ 2.Поиск Поддоменов
+ 3.Поиск поддоменов + DNS
+
+
+5.cd /Memcrashed-DDoS-Exploit
 pip install -r requirements.txt
 python Memcrashed.py 
 
