@@ -25,21 +25,17 @@ python3 security-admin.py
 
 
 4. 1.python3 turbolist3r.py -h -help
-
-         
- 2.python3 turbolist3r.py -d google.com 
-
-
- 4.python3 turbolist3r.py -d google.com
-
-
- 6.Помощь
-
-
- 8.Поиск Поддоменов
+ 
+   2.python3 turbolist3r.py -d google.com 
+   
+   python3 turbolist3r.py -d google.com
+   Описание комманд:
+   1.Помощь
+   
+   2.Поиск Поддоменов
 
 
- 10.Поиск поддоменов + DNS
+   4.Поиск поддоменов + DNS
 
 
 5.cd /Memcrashed-DDoS-Exploit
